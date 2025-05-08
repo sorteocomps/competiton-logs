@@ -115,30 +115,6 @@ The commit-reveal protocol used by Sorteo ensures randomness cannot be manipulat
    - The combined seed is used to deterministically select a winning ticket
    - Since the combined seed could not be predicted or manipulated, the selection is provably fair
 
-## Verification Tools
-
-To simplify verification, we provide JavaScript tools in this repository:
-
-- `verify.js`: Verifies all aspects of a specific prize draw
-- `verify-formats.js`: Shows the exact string formats used for hashing
-- `verify-blockchain-draw.js`: Demonstrates the winner selection algorithm
-
-### Using the Verification Tools
-
-```bash
-# Install dependencies
-npm install
-
-# Verify a specific draw
-node verify.js <prize-draw-id>
-
-# Test the verification formats
-node verify-formats.js
-
-# Verify the winner selection algorithm
-node verify-blockchain-draw.js <prize-draw-id>
-```
-
 ## Auditing Draws
 
 We encourage third-party audits of our prize draws. To audit a draw:
@@ -148,18 +124,22 @@ We encourage third-party audits of our prize draws. To audit a draw:
 3. Verify all cryptographic hashes using the provided tools
 4. Verify the winner selection using the combined seed and ticket list
 
-For detailed auditing instructions, see [our auditor's guide](https://sorteo.io/help/auditors/).
-
-## Contact Information
-
-For questions about the verification system:
-
-- **Email**: verification@sorteo.io
-- **GitHub Issues**: Open an issue in this repository
+For detailed auditing instructions, see [our auditor's guide](https://sorteo.co.uk/help/auditors/).
 
 ## License
 
-All verification data in this repository is available under the MIT License. 
-The code for verification tools is also available under the MIT License.
+Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-Copyright (c) 2023 Sorteo Inc.
+This repository is licensed under the Creative Commons Attribution 4.0 International License.
+
+You are free to:
+
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+
+Full legal code: https://creativecommons.org/licenses/by/4.0/legalcode  
+Plain English summary: https://creativecommons.org/licenses/by/4.0/
