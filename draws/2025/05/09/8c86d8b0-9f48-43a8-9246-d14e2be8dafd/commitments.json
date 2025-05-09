@@ -1,8 +1,8 @@
 {
   "prizeDrawId": "8c86d8b0-9f48-43a8-9246-d14e2be8dafd",
   "prizeDrawName": "Hopeful",
-  "ticketListHash": "",
-  "ticketCount": 0,
+  "ticketListHash": "1fde34889dedd4f074a9ecc965ecfd05c065b747931903a443f054056c969cce",
+  "ticketCount": 72,
   "prizeCommitments": [
     {
       "prizeDrawId": "8c86d8b0-9f48-43a8-9246-d14e2be8dafd",
@@ -32,5 +32,5 @@
       "prizeRank": 3
     }
   ],
-  "updatedAt": "2025-05-09T20:28:02.948Z"
+  "updatedAt": "2025-05-09T20:29:06.697Z"
 }
