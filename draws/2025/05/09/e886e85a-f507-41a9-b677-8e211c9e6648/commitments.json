@@ -1,8 +1,8 @@
 {
   "prizeDrawId": "e886e85a-f507-41a9-b677-8e211c9e6648",
   "prizeDrawName": "Maldives Holiday",
-  "ticketListHash": "",
-  "ticketCount": 0,
+  "ticketListHash": "7f29e03fc09b796c0d623838880749eec4d02dea4ab930eace9211a9d82fdeb2",
+  "ticketCount": 99,
   "prizeCommitments": [
     {
       "prizeDrawId": "e886e85a-f507-41a9-b677-8e211c9e6648",
@@ -32,5 +32,5 @@
       "prizeRank": 3
     }
   ],
-  "updatedAt": "2025-05-09T23:32:41.641Z"
+  "updatedAt": "2025-05-09T23:33:42.619Z"
 }
