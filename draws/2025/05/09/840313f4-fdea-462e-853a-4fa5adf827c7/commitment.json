@@ -1,10 +1,10 @@
 {
   "prizeDrawId": "840313f4-fdea-462e-853a-4fa5adf827c7",
   "prizeDrawName": "Trest",
-  "commitmentHash": "b00d14a6c728c6be9eda61311bfd3720019bd974a95197446992761edadc39f8",
-  "localSeed": "206d0c8fd044b5e58ec48df31f6009271b0f0af6072d323f9f4145bf3d0b974a",
+  "commitmentHash": "c3c357cc79f25e2b39c3fc2f0cdea8fe89c6e5f51ed89b8d4ec8e85faf7108df",
+  "localSeed": "e0b4a9df0419c2b410da4d323f426a65ef422dcc8525c96f5695d69e76932c59",
   "blockNumber": 22446211,
   "ticketListHash": "",
   "ticketCount": 0,
-  "createdAt": "2025-05-09T13:27:34.857Z"
+  "createdAt": "2025-05-09T13:27:36.360Z"
 }
