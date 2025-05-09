@@ -14,7 +14,18 @@
       "ticketCount": 0,
       "createdAt": "2025-05-09T19:54:55.889Z",
       "prizeRank": 1
+    },
+    {
+      "prizeDrawId": "167ea89b-e064-49fa-80c3-2cc711992ee5",
+      "prizeDrawName": "Test",
+      "commitmentHash": "6303dcfa53d77d63936dd848e23046cbcab809db3fbcf9792601ba8f1b23c208",
+      "localSeed": "56919c6a3f3045c002ce1b52f7858da6a07af59d4175363b022b6971c88cc77b",
+      "blockNumber": 22448103,
+      "ticketListHash": "",
+      "ticketCount": 0,
+      "createdAt": "2025-05-09T19:54:57.562Z",
+      "prizeRank": 2
     }
   ],
-  "updatedAt": "2025-05-09T19:54:56.517Z"
+  "updatedAt": "2025-05-09T19:54:58.035Z"
 }
