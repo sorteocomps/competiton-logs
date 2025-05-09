@@ -12,7 +12,18 @@
       "ticketCount": 0,
       "createdAt": "2025-05-09T19:11:27.240Z",
       "prizeRank": 1
+    },
+    {
+      "prizeDrawId": "61f520e8-f754-4fae-bc1c-a53e99287d65",
+      "prizeDrawName": "Tesst",
+      "commitmentHash": "1d69a63e5facb00752772de3a3398f4a6145cce76b435be3fe791ae1d9de2709",
+      "localSeed": "236b72e7df43568c3bcd8ac2cc4d94c0b081b33a8fc1708ed804f50c5ae06546",
+      "blockNumber": 22447889,
+      "ticketListHash": "",
+      "ticketCount": 0,
+      "createdAt": "2025-05-09T19:11:28.936Z",
+      "prizeRank": 2
     }
   ],
-  "updatedAt": "2025-05-09T19:11:27.870Z"
+  "updatedAt": "2025-05-09T19:11:29.473Z"
 }
