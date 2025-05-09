@@ -6,5 +6,7 @@
   "blockNumber": 22445213,
   "ticketListHash": "4cc597b87696515a125a23e6218d58ac924809eafbec792844a07fda28112250",
   "ticketCount": 500,
-  "createdAt": "2025-05-09T10:04:47.999Z"
+  "createdAt": "2025-05-09T10:04:47.999Z",
+  "ticketListUrl": "https://github.com/sorteocomps/competiton-logs/blob/main/draws/2025/05/09/84005f26-fc76-4a70-ab63-1d37c09ca2fc/ticket_list.csv",
+  "lastUpdated": "2025-05-09T10:06:03.695Z"
 }
