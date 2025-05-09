@@ -1,10 +1,10 @@
 {
   "prizeDrawId": "2d2559ed-83c5-4e05-ab61-1b425c43188a",
   "prizeDrawName": "Tes",
-  "commitmentHash": "a5363f9c16fe7750c892846477a47afde418d8cd7a3cab48a35756dcca5b5a46",
-  "localSeed": "f9130ff661387a3f83164f282c5c4943a6fe5146a3f6cdaa66cf1590b2502235",
+  "commitmentHash": "65b9e1416c2a85297277351fc98bc972d416cfdf83657d1c06ef6cc6eef4c5db",
+  "localSeed": "e6386c9d616d01773b58262251f576f356f6b2bf2cbcb67d88a67be41f60c0d6",
   "blockNumber": 22446254,
   "ticketListHash": "",
   "ticketCount": 0,
-  "createdAt": "2025-05-09T13:36:09.797Z"
+  "createdAt": "2025-05-09T13:36:11.386Z"
 }
