@@ -1,0 +1,21 @@
+{
+  "prizeDrawId": "8c86d8b0-9f48-43a8-9246-d14e2be8dafd",
+  "prizeDrawName": "Hopeful",
+  "prizeReveals": [
+    {
+      "prizeDrawId": "8c86d8b0-9f48-43a8-9246-d14e2be8dafd",
+      "prizeDrawName": "Hopeful",
+      "commitmentHash": "9baaa0ca2b25ef047a3c70e4617b2bb439b5e92fd94e011ea7dda45eb21aa760",
+      "localSeed": "3565bc07d164fea60dea385337c5d0f86ecf96bf308ca558378e3bad763e7513",
+      "blockNumber": 22448266,
+      "ticketListHash": "",
+      "ticketCount": 0,
+      "createdAt": "2025-05-09T20:27:58.974Z",
+      "blockHash": "0xc7cc9fb3443104bd0379aff057cfeb4499e8037dc913e1c9f22dacb8daad773d",
+      "combinedSeed": "79b929777c2c0331b107af90ef9e0c0050efb6562ca5cadfd8080711dfcc03b0",
+      "revealedAt": "2025-05-09T20:33:20.376Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2025-05-09T20:33:20.673Z"
+}
