@@ -1,0 +1,21 @@
+{
+  "prizeDrawId": "c082c0cf-eafd-4d45-b631-115008d62dc6",
+  "prizeDrawName": "Maldives Holiday",
+  "prizeReveals": [
+    {
+      "prizeDrawId": "c082c0cf-eafd-4d45-b631-115008d62dc6",
+      "prizeDrawName": "Maldives Holiday",
+      "commitmentHash": "2ba2dbbf2c7d339a50b51f0ba679d475755bbf348fd37f748d73a22c25a88f9f",
+      "localSeed": "43ab497e37c30cee6e9c3f6a8af43b60412f9dc96176ccfc3604a834ad068db3",
+      "blockNumber": 22449050,
+      "ticketListHash": "",
+      "ticketCount": 0,
+      "createdAt": "2025-05-09T23:07:00.339Z",
+      "blockHash": "0xfebc66d0694781a3f0282191be5d86e9e7d89cc81bfc4a551ed9d2cbd9fb3d74",
+      "combinedSeed": "9b36ab32dd70e308421d7bbbccba894139cb3bb4d1f4a2706762a281af6ce326",
+      "revealedAt": "2025-05-09T23:09:27.672Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2025-05-09T23:09:27.972Z"
+}
