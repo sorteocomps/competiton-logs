@@ -4,7 +4,7 @@
   "commitmentHash": "61d7a5a3721498fb7a4365682702990efa6e9ae126b56fa620bc601916baaf2a",
   "localSeed": "6c048918933dec679243111042652487e4e597da5383d08bc2faea3bef4715ac",
   "blockNumber": 22445213,
-  "ticketListHash": "",
-  "ticketCount": 0,
-  "createdAt": "2025-05-09T10:04:48.091Z"
+  "ticketListHash": "4cc597b87696515a125a23e6218d58ac924809eafbec792844a07fda28112250",
+  "ticketCount": 500,
+  "createdAt": "2025-05-09T10:04:47.999Z"
 }
