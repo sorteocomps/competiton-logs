@@ -76,9 +76,9 @@ Key fields for each commitment:
 - `ticketListHash`: SHA-256 hash of the ticket list CSV (added when draw ends)
 - `ticketCount`: Number of tickets in the draw (added when draw ends)
 
-### 2. ticket_list.csv and ticket_list_prize_*.csv
+### 2. ticket_list.csv
 
-These files contain anonymized lists of all valid tickets in the draw, with separate files for each prize in multi-prize draws:
+This file contains an anonymized list of all valid tickets in the draw:
 
 ```
 id,ticketNumber,firstInitial,lastInitial,purchaseDate
@@ -91,6 +91,8 @@ Privacy protections:
 - Only initials are included, not full names
 - No email addresses or other PII
 - Ticket IDs allow correlation with winning tickets
+
+Note: A single ticket list is used for all prizes in multi-prize draws. Each prize uses a different blockchain commitment and random seed to select winners from this same ticket list.
 
 ### 3. reveals.json
 
