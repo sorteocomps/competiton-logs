@@ -8,8 +8,8 @@
       "commitmentHash": "53542b1b3603ff21c76276e2081cb1e8f0fd83af21b550587a20b02731577bac",
       "localSeed": "79e6718d2c1bdc6eae64a434664fed645857b84ba2a97d20cbe7361dc61eab79",
       "blockNumber": 22447973,
-      "ticketListHash": "",
-      "ticketCount": 0,
+      "ticketListHash": "f3937fd94361e56a5503c0294a58d4cae27c7724e910452a636a27830ce33a2a",
+      "ticketCount": 50,
       "createdAt": "2025-05-09T19:28:43.957Z",
       "prizeRank": 1
     },
@@ -47,5 +47,5 @@
       "prizeRank": 4
     }
   ],
-  "updatedAt": "2025-05-09T19:28:49.345Z"
+  "updatedAt": "2025-05-09T19:38:24.100Z"
 }
