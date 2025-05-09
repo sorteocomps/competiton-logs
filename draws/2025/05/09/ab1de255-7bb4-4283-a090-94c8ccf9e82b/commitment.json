@@ -1,10 +1,10 @@
 {
   "prizeDrawId": "ab1de255-7bb4-4283-a090-94c8ccf9e82b",
   "prizeDrawName": "Multiple Prizes New",
-  "commitmentHash": "14c7038158cd663e4f27c468ee4fc4da05fef129d6f11e4ec43a63cec32f70a4",
-  "localSeed": "35b62b1d7fecf9334a55f45e7f8151aec331abeda95934e427b22407dc9e8a21",
+  "commitmentHash": "be892026e2fd6a067e6fc183cd891eb0210d6075e2ad4d8a8dc42eefcf8e0d93",
+  "localSeed": "582aac65b400628e12b19c74d1a7977d4135376a91c80c79ff9c681994796b92",
   "blockNumber": 22446022,
   "ticketListHash": "",
   "ticketCount": 0,
-  "createdAt": "2025-05-09T12:48:33.032Z"
+  "createdAt": "2025-05-09T12:48:34.652Z"
 }
