@@ -12,7 +12,16 @@
       "blockNumber": 22449050,
       "createdAt": "2025-05-09T23:07:00.452Z",
       "prizeRank": 1
+    },
+    {
+      "prizeDrawId": "c082c0cf-eafd-4d45-b631-115008d62dc6",
+      "prizeDrawName": "Maldives Holiday",
+      "commitmentHash": "e145be9db9bab21158ff52880a438fa72fbccf6d2cad6af258f5ce430e278e20",
+      "localSeed": "c61ad17f95e6a6f81b18dc64ac5239671e6af90a17c9891e15d134371fc0ce56",
+      "blockNumber": 22449051,
+      "createdAt": "2025-05-09T23:07:02.125Z",
+      "prizeRank": 2
     }
   ],
-  "updatedAt": "2025-05-09T23:07:01.017Z"
+  "updatedAt": "2025-05-09T23:07:02.767Z"
 }
