@@ -1,0 +1,13 @@
+{
+  "prizeDrawId": "c336f063-e05c-43d0-b25a-8b699e37a713",
+  "prizeDrawName": "Test Draw 6",
+  "commitmentHash": "62cf1446d6670f2441f8d6392602df233593ac2efab2644c6037e9e36b139120",
+  "localSeed": "e4f64947f89ac613ee179cf422fdc68d0042d90aabc40c4b95562e3cdbba0fdd",
+  "blockNumber": 22441530,
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "createdAt": "2025-05-08T21:38:03.239Z",
+  "blockHash": "0x27730d32edc88ab285f75a3343707a3e06178efca5f3c948357e7cda37d33883",
+  "combinedSeed": "6ac6f1b4130bb2eb6892853b7b02b2825641d2dd975673117344d9b77d3f6b1a",
+  "revealedAt": "2025-05-09T07:32:11.551Z"
+}
