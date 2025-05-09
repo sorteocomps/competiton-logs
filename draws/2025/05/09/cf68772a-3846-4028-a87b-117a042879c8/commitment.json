@@ -1,10 +1,10 @@
 {
   "prizeDrawId": "cf68772a-3846-4028-a87b-117a042879c8",
   "prizeDrawName": "Test",
-  "commitmentHash": "113b598477f7d392164b11fc1851c7f34b490a499ee1d1a20bffd5994533d534",
-  "localSeed": "c9067e80eafc62b94988ecd968e32fe1f27553e2abdd2d520b927fefc5abce87",
+  "commitmentHash": "47ac2461568bc19450a1eba99b14d0be8493dd7f264737230074356b5d483e69",
+  "localSeed": "267f2cd6c5ca4b51a18cd41609eb1127f489f29bdee392e84b1557046a4a57c9",
   "blockNumber": 22446312,
   "ticketListHash": "",
   "ticketCount": 0,
-  "createdAt": "2025-05-09T13:47:58.957Z"
+  "createdAt": "2025-05-09T13:48:00.608Z"
 }
