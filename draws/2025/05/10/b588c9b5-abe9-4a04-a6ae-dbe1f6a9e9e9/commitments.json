@@ -12,7 +12,16 @@
       "blockNumber": 22452036,
       "createdAt": "2025-05-10T09:13:52.489Z",
       "prizeRank": 1
+    },
+    {
+      "prizeDrawId": "b588c9b5-abe9-4a04-a6ae-dbe1f6a9e9e9",
+      "prizeDrawName": "Test",
+      "commitmentHash": "7e71807b2928fdbe1c693b2584ea3a95c3f6f6797517d3570799070f8d45abab",
+      "localSeed": "cc22c2f183d0f44bce2fb4221a56638d801f1aa7d46f80a9c48ce4dd48ec2cef",
+      "blockNumber": 22452036,
+      "createdAt": "2025-05-10T09:13:54.238Z",
+      "prizeRank": 2
     }
   ],
-  "updatedAt": "2025-05-10T09:13:53.060Z"
+  "updatedAt": "2025-05-10T09:13:54.736Z"
 }
