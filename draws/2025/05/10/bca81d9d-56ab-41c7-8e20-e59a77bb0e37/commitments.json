@@ -1,8 +1,8 @@
 {
   "prizeDrawId": "bca81d9d-56ab-41c7-8e20-e59a77bb0e37",
   "prizeDrawName": "Majorca",
-  "ticketListHash": "",
-  "ticketCount": 0,
+  "ticketListHash": "52aa5eb72576908f072411b37033862fcb1999de704bc038de61bfb4844c74e6",
+  "ticketCount": 809,
   "prizeCommitments": [
     {
       "prizeDrawId": "bca81d9d-56ab-41c7-8e20-e59a77bb0e37",
@@ -32,5 +32,5 @@
       "prizeRank": 3
     }
   ],
-  "updatedAt": "2025-05-10T08:01:57.912Z"
+  "updatedAt": "2025-05-10T08:10:23.605Z"
 }
