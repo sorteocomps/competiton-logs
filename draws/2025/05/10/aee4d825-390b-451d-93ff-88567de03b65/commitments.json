@@ -1,0 +1,18 @@
+{
+  "prizeDrawId": "aee4d825-390b-451d-93ff-88567de03b65",
+  "prizeDrawName": "Test Prize Rank Fix - Multi Prize",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "prizeDrawId": "aee4d825-390b-451d-93ff-88567de03b65",
+      "prizeDrawName": "Test Prize Rank Fix - Multi Prize",
+      "commitmentHash": "6b95c72fa577e16f7b335f4d1c0ccdfd8a6d822fbd021e64ef5623e534c42d94",
+      "localSeed": "1a8634cee1f4eeb5e6f7ff0e75c42066a1909c7e7d5f12b0003f3d0930b9dc28",
+      "blockNumber": 22456007,
+      "createdAt": "2025-05-10T22:38:50.854Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2025-05-10T22:38:51.449Z"
+}
