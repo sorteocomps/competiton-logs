@@ -12,7 +12,16 @@
       "blockNumber": 22455979,
       "createdAt": "2025-05-10T22:33:13.783Z",
       "prizeRank": 1
+    },
+    {
+      "prizeDrawId": "8c06dc52-9d38-4226-bffa-269ec6be2b1c",
+      "prizeDrawName": "Test Prize Rank Fix - Multi Prize",
+      "commitmentHash": "8bc7a50142a471dfdbe0b0c6ea14ae7d8df30a092312545b78b128adc824d011",
+      "localSeed": "5023358f43c802ebc8f3106740eec19784dd77be5f7cf1405037cc576ac829a9",
+      "blockNumber": 22455980,
+      "createdAt": "2025-05-10T22:33:15.382Z",
+      "prizeRank": 2
     }
   ],
-  "updatedAt": "2025-05-10T22:33:14.369Z"
+  "updatedAt": "2025-05-10T22:33:15.883Z"
 }
