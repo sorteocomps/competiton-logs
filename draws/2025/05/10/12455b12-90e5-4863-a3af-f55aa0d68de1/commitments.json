@@ -1,8 +1,8 @@
 {
   "prizeDrawId": "12455b12-90e5-4863-a3af-f55aa0d68de1",
   "prizeDrawName": "Nashvile",
-  "ticketListHash": "",
-  "ticketCount": 0,
+  "ticketListHash": "16f2cdaaddc015f36915e207ecc0fdf807d67b82e22f3e81b1f0628a96928f9d",
+  "ticketCount": 70,
   "prizeCommitments": [
     {
       "prizeDrawId": "12455b12-90e5-4863-a3af-f55aa0d68de1",
@@ -41,5 +41,5 @@
       "prizeRank": 4
     }
   ],
-  "updatedAt": "2025-05-10T08:41:56.896Z"
+  "updatedAt": "2025-05-10T08:43:26.878Z"
 }
