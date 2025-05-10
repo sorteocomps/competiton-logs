@@ -21,7 +21,16 @@
       "blockNumber": 22451683,
       "createdAt": "2025-05-10T08:01:51.134Z",
       "prizeRank": 2
+    },
+    {
+      "prizeDrawId": "bca81d9d-56ab-41c7-8e20-e59a77bb0e37",
+      "prizeDrawName": "Majorca",
+      "commitmentHash": "7a518407a4cc46cb9c8a49a3c432b2a9b5dc8307caeb90c8ac38dd82fe0ca7fd",
+      "localSeed": "a55fda060060e58b620dae46aba6d4a811f7877cebae1b43d2555dc3bac9e878",
+      "blockNumber": 22451683,
+      "createdAt": "2025-05-10T08:01:57.443Z",
+      "prizeRank": 3
     }
   ],
-  "updatedAt": "2025-05-10T08:01:51.616Z"
+  "updatedAt": "2025-05-10T08:01:57.912Z"
 }
