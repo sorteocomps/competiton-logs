@@ -1,0 +1,21 @@
+{
+  "prizeDrawId": "12455b12-90e5-4863-a3af-f55aa0d68de1",
+  "prizeDrawName": "Nashvile",
+  "prizeReveals": [
+    {
+      "prizeDrawId": "12455b12-90e5-4863-a3af-f55aa0d68de1",
+      "prizeDrawName": "Nashvile",
+      "commitmentHash": "d2fae89ff2535b68c6dcdafd690d07727a664fbbd815902f90863d04448bd9ff",
+      "localSeed": "4f5801cb82948a68798fa331fb660edd350e220378f2b85bf2042b5d4dbfcb36",
+      "blockNumber": 22451878,
+      "ticketListHash": "",
+      "ticketCount": 0,
+      "createdAt": "2025-05-10T08:41:52.031Z",
+      "blockHash": "0xec790c1b4536547b2ab55142b076adf07aefe6906b70abee22444d489895134d",
+      "combinedSeed": "f0b9af72fb4e1dc3984bb0516959c006d5a2ca2a876b70a336a1b61e926a2476",
+      "revealedAt": "2025-05-10T09:10:42.037Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2025-05-10T09:10:42.308Z"
+}
