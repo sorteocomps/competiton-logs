@@ -1,8 +1,8 @@
 {
   "prizeDrawId": "5d2beada-fab2-4c99-ab8c-83c7b6c0c61e",
   "prizeDrawName": "This will have postal entries",
-  "ticketListHash": "",
-  "ticketCount": 0,
+  "ticketListHash": "ff3ae780ff6a7e80de395a98082d4f9238070c61fc9a0ddbbe9deb866742436b",
+  "ticketCount": 27,
   "prizeCommitments": [
     {
       "prizeDrawId": "5d2beada-fab2-4c99-ab8c-83c7b6c0c61e",
@@ -23,5 +23,5 @@
       "prizeRank": 2
     }
   ],
-  "updatedAt": "2025-05-12T14:51:05.915Z"
+  "updatedAt": "2025-05-12T15:16:33.489Z"
 }
