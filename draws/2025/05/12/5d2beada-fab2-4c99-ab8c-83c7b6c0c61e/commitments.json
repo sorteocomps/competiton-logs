@@ -12,7 +12,16 @@
       "blockNumber": 22467916,
       "createdAt": "2025-05-12T14:51:03.485Z",
       "prizeRank": 1
+    },
+    {
+      "prizeDrawId": "5d2beada-fab2-4c99-ab8c-83c7b6c0c61e",
+      "prizeDrawName": "This will have postal entries",
+      "commitmentHash": "3a2d994fdd3d992d3813a9ea03f6f10118f25d4594d3be8edb7771215f9b9c25",
+      "localSeed": "e3a5e4b025793c93aff065fe1863895aca927fa629d3f98ac7d5007debccf0be",
+      "blockNumber": 22467916,
+      "createdAt": "2025-05-12T14:51:05.388Z",
+      "prizeRank": 2
     }
   ],
-  "updatedAt": "2025-05-12T14:51:04.113Z"
+  "updatedAt": "2025-05-12T14:51:05.915Z"
 }
