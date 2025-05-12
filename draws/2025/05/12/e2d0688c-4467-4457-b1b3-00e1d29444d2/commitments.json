@@ -1,8 +1,8 @@
 {
   "prizeDrawId": "e2d0688c-4467-4457-b1b3-00e1d29444d2",
   "prizeDrawName": "Test",
-  "ticketListHash": "",
-  "ticketCount": 0,
+  "ticketListHash": "ea1cb46769c9f8529561bd45b9f88d4cfdb670b06c38a6a5f45588a8435fbdcc",
+  "ticketCount": 22,
   "prizeCommitments": [
     {
       "prizeDrawId": "e2d0688c-4467-4457-b1b3-00e1d29444d2",
@@ -23,5 +23,5 @@
       "prizeRank": 2
     }
   ],
-  "updatedAt": "2025-05-12T15:30:25.531Z"
+  "updatedAt": "2025-05-12T15:32:28.152Z"
 }
