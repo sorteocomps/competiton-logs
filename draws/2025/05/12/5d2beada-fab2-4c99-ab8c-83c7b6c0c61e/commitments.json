@@ -1,0 +1,18 @@
+{
+  "prizeDrawId": "5d2beada-fab2-4c99-ab8c-83c7b6c0c61e",
+  "prizeDrawName": "This will have postal entries",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "prizeDrawId": "5d2beada-fab2-4c99-ab8c-83c7b6c0c61e",
+      "prizeDrawName": "This will have postal entries",
+      "commitmentHash": "b2db1cc8af7b603dc54a760b601b1a536cf5231e196f08ac17b499e674266b45",
+      "localSeed": "ee86fefe23d36913e86f494a84e6e32f55e2ac4b1d813b2d998ba81e5f8e2192",
+      "blockNumber": 22467916,
+      "createdAt": "2025-05-12T14:51:03.485Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2025-05-12T14:51:04.113Z"
+}
