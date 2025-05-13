@@ -1,0 +1,18 @@
+{
+  "prizeDrawId": "65e81a0f-b71c-4f2c-b3be-bd5e3cd4732e",
+  "prizeDrawName": "Test Skill Comp",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "prizeDrawId": "65e81a0f-b71c-4f2c-b3be-bd5e3cd4732e",
+      "prizeDrawName": "Test Skill Comp",
+      "commitmentHash": "18e808bc5d49c2cad1ef7c313ad1a1efe2358edddf2238b397bea14378a9248f",
+      "localSeed": "1293cacc7b284de1367318f1b6de65d48fa0d34e7eb9c4968f51740c8c82542c",
+      "blockNumber": 22476594,
+      "createdAt": "2025-05-13T20:11:24.767Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2025-05-13T20:11:25.347Z"
+}
