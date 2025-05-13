@@ -12,7 +12,16 @@
       "blockNumber": 22476594,
       "createdAt": "2025-05-13T20:11:24.767Z",
       "prizeRank": 1
+    },
+    {
+      "prizeDrawId": "65e81a0f-b71c-4f2c-b3be-bd5e3cd4732e",
+      "prizeDrawName": "Test Skill Comp",
+      "commitmentHash": "3d3a36b16accfadbde3aa667a19ba892cbce22b0d88f4758057a42202ef7dda9",
+      "localSeed": "05666d667c0e2dcaa622da94ed07e4f39bf33c4c0172477530430807d9e7d26a",
+      "blockNumber": 22476594,
+      "createdAt": "2025-05-13T20:11:26.479Z",
+      "prizeRank": 2
     }
   ],
-  "updatedAt": "2025-05-13T20:11:25.347Z"
+  "updatedAt": "2025-05-13T20:11:26.978Z"
 }
