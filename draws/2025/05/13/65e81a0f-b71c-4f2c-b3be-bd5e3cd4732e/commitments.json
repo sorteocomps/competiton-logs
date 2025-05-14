@@ -1,8 +1,8 @@
 {
   "prizeDrawId": "65e81a0f-b71c-4f2c-b3be-bd5e3cd4732e",
   "prizeDrawName": "Test Skill Comp",
-  "ticketListHash": "",
-  "ticketCount": 0,
+  "ticketListHash": "d1df43b1e31d6fe36a9aeb714d79d0022ca41d220a86d1c6da1700d5b80edcb7",
+  "ticketCount": 10,
   "prizeCommitments": [
     {
       "prizeDrawId": "65e81a0f-b71c-4f2c-b3be-bd5e3cd4732e",
@@ -32,5 +32,5 @@
       "prizeRank": 3
     }
   ],
-  "updatedAt": "2025-05-13T20:11:28.536Z"
+  "updatedAt": "2025-05-14T09:31:41.368Z"
 }
