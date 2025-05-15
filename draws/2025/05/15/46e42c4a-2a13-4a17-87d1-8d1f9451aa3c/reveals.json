@@ -1,0 +1,13 @@
+{
+  "prizeDrawId": "46e42c4a-2a13-4a17-87d1-8d1f9451aa3c",
+  "prizeDrawName": "Test Redis",
+  "prizeReveals": [],
+  "updatedAt": "2025-05-15T19:29:15.287Z",
+  "created": "2025-05-15T19:29:15.287Z",
+  "prizeDrawDetails": {
+    "title": "Test Redis",
+    "createdAt": "2025-05-15T19:29:13.283Z",
+    "description": "Test Redis",
+    "status": "active"
+  }
+}
