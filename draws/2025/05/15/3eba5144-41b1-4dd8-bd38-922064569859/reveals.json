@@ -1,0 +1,13 @@
+{
+  "prizeDrawId": "3eba5144-41b1-4dd8-bd38-922064569859",
+  "prizeDrawName": "Redis with TLS",
+  "prizeReveals": [],
+  "updatedAt": "2025-05-15T19:55:28.844Z",
+  "created": "2025-05-15T19:55:28.844Z",
+  "prizeDrawDetails": {
+    "title": "Redis with TLS",
+    "createdAt": "2025-05-15T19:55:26.855Z",
+    "description": "Test",
+    "status": "active"
+  }
+}
