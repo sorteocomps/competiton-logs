@@ -1,0 +1,13 @@
+{
+  "prizeDrawId": "aaa9fb76-7307-4b25-b0de-82548c734409",
+  "prizeDrawName": "Test redisss",
+  "prizeReveals": [],
+  "updatedAt": "2025-05-15T19:33:53.104Z",
+  "created": "2025-05-15T19:33:53.104Z",
+  "prizeDrawDetails": {
+    "title": "Test redisss",
+    "createdAt": "2025-05-15T19:33:50.735Z",
+    "description": "Test",
+    "status": "active"
+  }
+}
