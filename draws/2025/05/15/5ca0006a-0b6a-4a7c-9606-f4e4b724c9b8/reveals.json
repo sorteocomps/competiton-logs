@@ -1,0 +1,19 @@
+{
+  "prizeDrawId": "5ca0006a-0b6a-4a7c-9606-f4e4b724c9b8",
+  "prizeDrawName": "Test 66",
+  "prizeReveals": [
+    {
+      "revealId": "09a44aff-b31b-498c-a630-834331b1402c",
+      "prizeDrawId": "5ca0006a-0b6a-4a7c-9606-f4e4b724c9b8",
+      "localSeed": "648f0e38c76a9277b3e3e0d5c6ddaf034959aabd574aea05947a8bd81dc333f6",
+      "blockNumber": 22491600,
+      "blockHash": "0x0abfd13c9fb646f5703edc6f99bfa6cb4f5cfdae3560f731ee9e0547da04405a",
+      "winningTicketNumber": 281623,
+      "winnerName": "Taylor Williams",
+      "winnerEmail": "taylor.williams@hotmail.co.uk",
+      "finalSeed": "efb2274a42ddeb7209ca8045c2d6b3b3d44b0d74d5bdd7d8a52a684698c1e1f0:prize2",
+      "prizeRank": 2
+    }
+  ],
+  "updatedAt": "2025-05-15T22:57:18.546Z"
+}
