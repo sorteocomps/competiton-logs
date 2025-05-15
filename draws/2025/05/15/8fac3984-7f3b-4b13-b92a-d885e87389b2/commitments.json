@@ -1,0 +1,18 @@
+{
+  "prizeDrawId": "8fac3984-7f3b-4b13-b92a-d885e87389b2",
+  "prizeDrawName": "Redis with TLS 2",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "prizeDrawId": "8fac3984-7f3b-4b13-b92a-d885e87389b2",
+      "prizeDrawName": "Redis with TLS 2",
+      "commitmentHash": "a5cb922e54decd42c1bd09a2497ab926819af1fa0a84e02304eb3b6b22b1f1e8",
+      "localSeed": "fdf13f789cd5ac553e00ce85e400a7fdbe76b3d351b17e337b1aaf471d45d96c",
+      "blockNumber": 0,
+      "createdAt": "2025-05-15T19:58:47.824Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2025-05-15T19:58:48.417Z"
+}
