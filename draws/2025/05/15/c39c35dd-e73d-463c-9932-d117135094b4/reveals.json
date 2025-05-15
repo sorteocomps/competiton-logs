@@ -1,0 +1,13 @@
+{
+  "prizeDrawId": "c39c35dd-e73d-463c-9932-d117135094b4",
+  "prizeDrawName": "Test",
+  "prizeReveals": [],
+  "updatedAt": "2025-05-15T20:23:49.965Z",
+  "created": "2025-05-15T20:23:49.965Z",
+  "prizeDrawDetails": {
+    "title": "Test",
+    "createdAt": "2025-05-15T20:23:45.912Z",
+    "description": "Test",
+    "status": "active"
+  }
+}
