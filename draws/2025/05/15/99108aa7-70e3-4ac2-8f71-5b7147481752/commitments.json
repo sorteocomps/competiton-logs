@@ -1,0 +1,14 @@
+{
+  "prizeDrawId": "99108aa7-70e3-4ac2-8f71-5b7147481752",
+  "prizeDrawName": "Test",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "localSeed": "93bf9f011fe45c9f10c65d2e00ba24917aec0dccaf519230d133cf90f99c3168",
+      "createdAt": "2025-05-15T22:32:12.428Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2025-05-15T22:32:13.118Z"
+}
