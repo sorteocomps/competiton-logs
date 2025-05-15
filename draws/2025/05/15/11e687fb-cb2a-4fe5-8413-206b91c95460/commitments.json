@@ -17,7 +17,14 @@
       "localSeed": "1f0f6ce7dcdedd4df3823bc304bb04e52e0117e3f7a7f295f1be052f0c481689",
       "createdAt": "2025-05-15T21:02:23.610Z",
       "prizeRank": 2
+    },
+    {
+      "prizeDrawId": "11e687fb-cb2a-4fe5-8413-206b91c95460",
+      "prizeDrawName": "Test",
+      "localSeed": "7c290ca256911b8f95800bf409d68129a6c32794c23dda1a6e59a913cc239ce1",
+      "createdAt": "2025-05-15T21:02:25.431Z",
+      "prizeRank": 3
     }
   ],
-  "updatedAt": "2025-05-15T21:02:24.172Z"
+  "updatedAt": "2025-05-15T21:02:26.007Z"
 }
