@@ -29,7 +29,21 @@
       "combinedSeed": "3a120564b1e44b181938dae6007ba89a9aadbda94f8b3e2db1302c9512bd4328",
       "revealedAt": "2025-05-15T17:32:21.452Z",
       "prizeRank": 2
+    },
+    {
+      "prizeDrawId": "415dddf7-f61c-4b60-b532-da6470fb376d",
+      "prizeDrawName": "Test 2",
+      "commitmentHash": "958c39e73e8b58ba32bdc23d6e2137bbc6942d85f8090f9cc2e33e728dc32b41",
+      "localSeed": "4ed40f7e3dc03d36adee609ecb50a79afe7ac3a067e678221c66da32ae91d327",
+      "blockNumber": 22490018,
+      "ticketListHash": "",
+      "ticketCount": 0,
+      "createdAt": "2025-05-15T17:05:27.322Z",
+      "blockHash": "0x15c4ed4ff95cd99301969492c07be3a303ac43680b06158646e1e978da434eb4",
+      "combinedSeed": "e477a2226ccf7407478976465ab62567e0af0b8161d16bbc376dbff88549ca31",
+      "revealedAt": "2025-05-15T17:32:39.907Z",
+      "prizeRank": 3
     }
   ],
-  "updatedAt": "2025-05-15T17:32:27.721Z"
+  "updatedAt": "2025-05-15T17:32:40.252Z"
 }
