@@ -48,7 +48,16 @@
       "blockNumber": 0,
       "createdAt": "2025-05-15T19:58:55.174Z",
       "prizeRank": 6
+    },
+    {
+      "prizeDrawId": "8fac3984-7f3b-4b13-b92a-d885e87389b2",
+      "prizeDrawName": "Redis with TLS 2",
+      "commitmentHash": "e331a6bc6e9c33ffaef73439da62c9c98f219845fbeec76237f1e2e7f75774d9",
+      "localSeed": "070732574f515b72c461a8445eb809419ccca966e095834cf5d26ee939c01375",
+      "blockNumber": 0,
+      "createdAt": "2025-05-15T19:58:56.923Z",
+      "prizeRank": 7
     }
   ],
-  "updatedAt": "2025-05-15T19:58:55.661Z"
+  "updatedAt": "2025-05-15T19:58:57.479Z"
 }
