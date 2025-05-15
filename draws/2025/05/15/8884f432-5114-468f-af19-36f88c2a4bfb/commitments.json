@@ -48,7 +48,16 @@
       "blockNumber": 0,
       "createdAt": "2025-05-15T18:26:42.465Z",
       "prizeRank": 6
+    },
+    {
+      "prizeDrawId": "8884f432-5114-468f-af19-36f88c2a4bfb",
+      "prizeDrawName": "Test. 5",
+      "commitmentHash": "2c4a9ea821d9625aa0d2aec9e4fd400bfd33e9e6e7fe2c1a4ac102f5d3badd49",
+      "localSeed": "8d42b7c65aafb80d9277fa5d0a7de0b09e4a385d9914be4cbe75f4d44bbf5b80",
+      "blockNumber": 0,
+      "createdAt": "2025-05-15T18:26:43.888Z",
+      "prizeRank": 7
     }
   ],
-  "updatedAt": "2025-05-15T18:26:43.045Z"
+  "updatedAt": "2025-05-15T18:26:44.437Z"
 }
