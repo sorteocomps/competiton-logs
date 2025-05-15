@@ -1,0 +1,16 @@
+{
+  "prizeDrawId": "739ec850-3788-4092-a0b6-c9585883d60f",
+  "prizeDrawName": "Testing prize draw",
+  "prizeCommitments": [
+    {
+      "commitmentId": "a571b862-a769-44a8-ac6c-952cd1ce2ec3",
+      "prizeRank": 3,
+      "localSeed": "a68678a6e5d344569ab06eacae0bfbcaf35d4852e7f139abd729912fc161e418",
+      "blockNumber": 22489593,
+      "commitmentHash": "8fa32100cf36e45f061e6d3d31b2f0d32c76587a31fc563b39fdee44b220544d",
+      "createdAt": "2025-05-15T16:06:44.310Z",
+      "updatedAt": "2025-05-15T16:06:44.310Z"
+    }
+  ],
+  "updatedAt": "2025-05-15T16:06:44.310Z"
+}
