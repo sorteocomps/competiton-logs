@@ -1,0 +1,14 @@
+{
+  "prizeDrawId": "c2240819-1008-4beb-8831-75b81de311d7",
+  "prizeDrawName": "New Competition - Welcome!",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "localSeed": "e311b98c48ff51d569d15c9e466d3016a47e155a6c53e7ff44e385974ca17d2a",
+      "createdAt": "2025-05-16T12:17:12.176Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2025-05-16T12:17:12.817Z"
+}
