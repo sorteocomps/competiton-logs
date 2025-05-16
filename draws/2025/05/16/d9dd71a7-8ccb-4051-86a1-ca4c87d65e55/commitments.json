@@ -1,0 +1,14 @@
+{
+  "prizeDrawId": "d9dd71a7-8ccb-4051-86a1-ca4c87d65e55",
+  "prizeDrawName": "Competition",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "localSeed": "a81cc2e0694eb2bae07d738291e3cad9e5abce4cba8fcc40344a22705802072b",
+      "createdAt": "2025-05-16T09:10:39.509Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2025-05-16T09:10:40.208Z"
+}
