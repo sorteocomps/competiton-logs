@@ -1,0 +1,23 @@
+{
+  "prizeDrawId": "d9dd71a7-8ccb-4051-86a1-ca4c87d65e55",
+  "prizeDrawName": "Competition",
+  "prizeReveals": [
+    {
+      "revealId": "8fa154df-c0d8-4b26-b463-5129b1cc9325",
+      "prizeDrawId": "d9dd71a7-8ccb-4051-86a1-ca4c87d65e55",
+      "prizeDrawName": "Competition",
+      "localSeed": "eac0b727d1ca30ddb3bc962852f1fc64d89044bce47d2150f0caf0aad50713ba",
+      "blockNumber": 22494688,
+      "blockHash": "0x3b64fc975e8fb0a0a5ce2af685959fb8ebb6154dca041ebf4a43a7aef8e28bce",
+      "winningTicketNumber": 202929,
+      "winnerName": "T. Williams",
+      "combinedSeed": "3d69fbdb2a6e7fcba4d36bf22d5c96cf07f846c3c0f2b94f2276fed878a9bc91:prize2",
+      "ticketListHash": "",
+      "finalSeed": "3d69fbdb2a6e7fcba4d36bf22d5c96cf07f846c3c0f2b94f2276fed878a9bc91:prize2",
+      "createdAt": "2025-05-16T09:20:13.256Z",
+      "revealedAt": "2025-05-16T09:20:14.092Z",
+      "prizeRank": 2
+    }
+  ],
+  "updatedAt": "2025-05-16T09:20:14.484Z"
+}
