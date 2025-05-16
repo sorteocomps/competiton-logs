@@ -1,0 +1,14 @@
+{
+  "prizeDrawId": "f1078d5d-bf9b-43f1-ba87-949077733d6d",
+  "prizeDrawName": "FInal pls",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "localSeed": "57ccfc52010026483b8ff7e035542ae62979dd9d9d7f7fa208a682e0b9cce454",
+      "createdAt": "2025-05-16T07:50:11.109Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2025-05-16T07:50:11.797Z"
+}
