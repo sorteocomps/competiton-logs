@@ -1,0 +1,14 @@
+{
+  "prizeDrawId": "c0d1042a-8a5d-4697-97df-149b250effa6",
+  "prizeDrawName": "Madilves",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "localSeed": "64769e79aca9e14f9a47cba4efab5e7d2f72727e5477d4e0691948ae9bd25051",
+      "createdAt": "2025-05-23T20:21:00.073Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2025-05-23T20:21:00.659Z"
+}
