@@ -8,7 +8,12 @@
       "localSeed": "64769e79aca9e14f9a47cba4efab5e7d2f72727e5477d4e0691948ae9bd25051",
       "createdAt": "2025-05-23T20:21:00.073Z",
       "prizeRank": 1
+    },
+    {
+      "localSeed": "bfebf94d47c1f89ea12493c724cce9322d552a64b71e63918be4232cc9d1b98a",
+      "createdAt": "2025-05-23T20:21:02.209Z",
+      "prizeRank": 2
     }
   ],
-  "updatedAt": "2025-05-23T20:21:00.659Z"
+  "updatedAt": "2025-05-23T20:21:02.743Z"
 }
