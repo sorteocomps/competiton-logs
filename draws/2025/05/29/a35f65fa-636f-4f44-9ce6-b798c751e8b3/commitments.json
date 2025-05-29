@@ -1,0 +1,13 @@
+{
+  "prizeDrawId": "a35f65fa-636f-4f44-9ce6-b798c751e8b3",
+  "prizeDrawName": "Scheduled Test Draw",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "localSeed": "a77f9470e1083631fa759dfa31718eb4b9f67fd2fa56412b8d32f3970ae0fe08",
+      "createdAt": "2025-05-29T17:13:45.619Z"
+    }
+  ],
+  "updatedAt": "2025-05-29T17:13:46.246Z"
+}
