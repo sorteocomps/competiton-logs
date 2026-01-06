@@ -1,0 +1,16 @@
+{
+  "prizeDrawId": "693c37c6-82ae-43aa-a7de-43e65fa8c981",
+  "prizeDrawName": "Visibility Test 1767733312225 Private",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "e733ea5ed628ba936d6c04bdafcfebba6c1633aceef6b12f9c54bd70dd4c60db",
+      "localSeed": "77d6718e36b343ce28323ae7b54801ae467925fc5f12d45500ef4ea83ec816ca",
+      "blockNumber": 24178203,
+      "createdAt": "2026-01-06T21:02:15.728Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2026-01-06T21:02:16.589Z"
+}
