@@ -1,0 +1,16 @@
+{
+  "prizeDrawId": "a1bd9778-7373-4812-9233-ec39d36de31b",
+  "prizeDrawName": "Cypress Test Competition 1767732670316",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "b16a539de30e59880b8476f2dec09bf0119266b44af58c42c729f33936a0dd8a",
+      "localSeed": "2ddb4a1a9646965f6bb93f2f5259b3b79dc8781fcbf21db8c48331973ba9268b",
+      "blockNumber": 24178148,
+      "createdAt": "2026-01-06T20:51:23.669Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2026-01-06T20:51:24.520Z"
+}
