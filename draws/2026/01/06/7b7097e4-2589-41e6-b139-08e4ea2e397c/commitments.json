@@ -1,0 +1,16 @@
+{
+  "prizeDrawId": "7b7097e4-2589-41e6-b139-08e4ea2e397c",
+  "prizeDrawName": "No Extra Trees Test 1767735147611",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "1a5e26c14b62cbff5f196999a0e341b830cda8bed8254384de1656aa5231510d",
+      "localSeed": "6944d594921a8d44934d5c82c4cfd1a35e1e00c41aadb1d244bc6ecc0e6e8213",
+      "blockNumber": 24178353,
+      "createdAt": "2026-01-06T21:32:32.031Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2026-01-06T21:32:33.357Z"
+}
