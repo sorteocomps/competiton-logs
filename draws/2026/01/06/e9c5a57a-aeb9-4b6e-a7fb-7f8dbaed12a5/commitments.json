@@ -1,0 +1,16 @@
+{
+  "prizeDrawId": "e9c5a57a-aeb9-4b6e-a7fb-7f8dbaed12a5",
+  "prizeDrawName": "Min Ticket Explanations 1767735526862",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "d92b4ea8673172d6841a6b98653f30d762c57f57def096ca9d37adac95674855",
+      "localSeed": "b4ef5704122e3280fcd07f35612580c1ad0c5ee70d9be01960e5e73074b74a48",
+      "blockNumber": 24178385,
+      "createdAt": "2026-01-06T21:38:51.769Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2026-01-06T21:38:52.610Z"
+}
