@@ -1,0 +1,16 @@
+{
+  "prizeDrawId": "0605d4c7-ecaf-4e88-a5ea-2fcf94c13f1b",
+  "prizeDrawName": "Visibility Test 1767733312225 Password",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "840b21939806b138b47385576e14d4ad1869d19cde2c707f31c59763654b5d67",
+      "localSeed": "729d9fa61eac235bbdb9cbe961e65f523379995647a42be46b685cc9072d4d56",
+      "blockNumber": 24178204,
+      "createdAt": "2026-01-06T21:02:26.275Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2026-01-06T21:02:27.230Z"
+}
