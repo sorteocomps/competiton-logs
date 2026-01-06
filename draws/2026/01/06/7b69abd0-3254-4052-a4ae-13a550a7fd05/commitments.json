@@ -1,0 +1,16 @@
+{
+  "prizeDrawId": "7b69abd0-3254-4052-a4ae-13a550a7fd05",
+  "prizeDrawName": "Min Ticket Test 1767733353369",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "5a1ed0c82fde449b94712b3f37e2c861176e7ce647bda1527b1e5f2c95efd104",
+      "localSeed": "3b92f1c87aaf7d504e8b2c2ef5ba2cdbcc803d0a9d1f4d59c05b783fb184f7a0",
+      "blockNumber": 24178205,
+      "createdAt": "2026-01-06T21:02:38.138Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2026-01-06T21:02:39.207Z"
+}
