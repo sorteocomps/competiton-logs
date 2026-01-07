@@ -1,0 +1,16 @@
+{
+  "prizeDrawId": "a7d85c2d-0dac-465e-982b-2a14d334e162",
+  "prizeDrawName": "Min Ticket Progress 1767816100717",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "0a51073b78ba8650fc60a945ea15bd81994ad372813b9cb20b55cebb02044f69",
+      "localSeed": "9cbf1be93c44d54c604ed27c5beb7e1fe002235163fad6386f7bd3eb0662a3f5",
+      "blockNumber": 24185069,
+      "createdAt": "2026-01-07T20:01:45.814Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2026-01-07T20:01:46.789Z"
+}
