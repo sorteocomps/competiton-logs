@@ -1,0 +1,16 @@
+{
+  "prizeDrawId": "bbe440de-f83b-4358-9cb8-e2205b95e1c9",
+  "prizeDrawName": "No Min Ticket 1767816123877",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "0d519240b5140cc18f1a5aa0ebf963e103889add9ca907ddde70ff66e5e54b71",
+      "localSeed": "17b437b190bc5a36008f9cb3d5b494087d4bf355a619cd397228e30de7646563",
+      "blockNumber": 24185071,
+      "createdAt": "2026-01-07T20:02:08.212Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2026-01-07T20:02:08.978Z"
+}
