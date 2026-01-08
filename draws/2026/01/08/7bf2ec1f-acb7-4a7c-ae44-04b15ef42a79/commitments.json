@@ -1,0 +1,16 @@
+{
+  "prizeDrawId": "7bf2ec1f-acb7-4a7c-ae44-04b15ef42a79",
+  "prizeDrawName": "Skill Question Flow Test 1767872150822",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "33ef05953c5e7a82e09b15effeda63b8d42beffc426c10d8343d9d12b329c794",
+      "localSeed": "16980d5a05ed7d4e061878f215b056e1e91ea89f45b1588d698423af18752e48",
+      "blockNumber": 24189705,
+      "createdAt": "2026-01-08T11:36:26.555Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2026-01-08T11:36:28.470Z"
+}
