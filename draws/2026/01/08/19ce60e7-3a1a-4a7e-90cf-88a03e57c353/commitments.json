@@ -1,0 +1,16 @@
+{
+  "prizeDrawId": "19ce60e7-3a1a-4a7e-90cf-88a03e57c353",
+  "prizeDrawName": "Progress Bar Hidden Test",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "4c035f7304bb5e492ca0d5eacd6614acb9dc00119a564938b44b6524010e585f",
+      "localSeed": "425d2e699d4f2f13582d21ecf9502af007e6ea47edc1d157fb5fb3cf924ad6a5",
+      "blockNumber": 24190310,
+      "createdAt": "2026-01-08T13:37:53.752Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2026-01-08T13:37:54.649Z"
+}
