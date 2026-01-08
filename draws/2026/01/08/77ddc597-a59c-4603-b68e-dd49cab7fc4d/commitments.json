@@ -1,0 +1,16 @@
+{
+  "prizeDrawId": "77ddc597-a59c-4603-b68e-dd49cab7fc4d",
+  "prizeDrawName": "Backend Limit Validation Test 1767894052986",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "2023bec3cfd5075c5cba4177ca2c89a26a47d165af2773738aa97fb30622749b",
+      "localSeed": "51770c5e65ac1b9e54da85003ec4200f63e97ef7c764f00c0839b601c3986685",
+      "blockNumber": 24191518,
+      "createdAt": "2026-01-08T17:40:57.928Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2026-01-08T17:40:58.631Z"
+}
