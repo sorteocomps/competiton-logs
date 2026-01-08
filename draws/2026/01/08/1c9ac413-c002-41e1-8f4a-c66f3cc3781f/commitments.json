@@ -1,0 +1,16 @@
+{
+  "prizeDrawId": "1c9ac413-c002-41e1-8f4a-c66f3cc3781f",
+  "prizeDrawName": "Progress Bar Visible Test",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "c865125e6ee6bf84388afa6f8163c88a6260888b020a06fd5b10e55d0edf20b2",
+      "localSeed": "16c0ae04afbd7097db5e1f618c0b182c17aa1275c0f2c30079da9ca0099ebf01",
+      "blockNumber": 24190325,
+      "createdAt": "2026-01-08T13:40:59.555Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2026-01-08T13:41:00.236Z"
+}
