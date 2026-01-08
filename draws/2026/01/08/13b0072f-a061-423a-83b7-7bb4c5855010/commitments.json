@@ -1,0 +1,16 @@
+{
+  "prizeDrawId": "13b0072f-a061-423a-83b7-7bb4c5855010",
+  "prizeDrawName": "Unlimited Tickets Test 1767894064337",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "3d85a708b7fd990c5643b903d856e0ab1f0a391e53446b11e29958a42f4511ae",
+      "localSeed": "c07bac9647ba453ea15d94e4b4b3e78e7dcf98388c3e9a9f76ab7d5eb6b3f577",
+      "blockNumber": 24191519,
+      "createdAt": "2026-01-08T17:41:09.438Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2026-01-08T17:41:10.096Z"
+}
