@@ -1,0 +1,16 @@
+{
+  "prizeDrawId": "94336959-825d-4dc1-b8cb-fca64642e7b2",
+  "prizeDrawName": "Ticket Limit Display Test",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "04337d62cef72194b4abcb75d5f27decd81d748be9625ae707a0e3bda6141763",
+      "localSeed": "a15b3ff51ea1c0a46f50597a6f796a41afd8e94a0aacf4a6f0897fc72e3fd3b9",
+      "blockNumber": 24190161,
+      "createdAt": "2026-01-08T13:08:09.947Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2026-01-08T13:08:10.705Z"
+}
