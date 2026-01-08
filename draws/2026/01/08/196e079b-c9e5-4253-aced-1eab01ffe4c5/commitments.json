@@ -1,0 +1,16 @@
+{
+  "prizeDrawId": "196e079b-c9e5-4253-aced-1eab01ffe4c5",
+  "prizeDrawName": "Ticket Limit Constraint Test",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "92d09de018d99fd2e7876230844e0a462bf2fc27075d573137dfe42f9ff23bbc",
+      "localSeed": "e65ab23b265de9c4c37b44e2b542bfd5a2784060bbdf9d3d1756fa319d6c535c",
+      "blockNumber": 24190111,
+      "createdAt": "2026-01-08T12:58:13.117Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2026-01-08T12:58:13.818Z"
+}
