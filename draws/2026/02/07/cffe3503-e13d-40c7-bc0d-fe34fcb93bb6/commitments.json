@@ -1,0 +1,16 @@
+{
+  "prizeDrawId": "cffe3503-e13d-40c7-bc0d-fe34fcb93bb6",
+  "prizeDrawName": "Fine Dining Experience",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "187876beb552b0537f6bf92f77bf0bb199f9a8cc730f05790b05b4527751eced",
+      "localSeed": "d1c2318986b8188cb1764e8ecbd00f76d7c7d8e367c83d3941882f5218041412",
+      "blockNumber": 24406325,
+      "createdAt": "2026-02-07T17:04:33.066Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2026-02-07T17:04:33.781Z"
+}
