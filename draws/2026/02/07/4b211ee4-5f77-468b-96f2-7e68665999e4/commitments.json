@@ -5,12 +5,12 @@
   "ticketCount": 0,
   "prizeCommitments": [
     {
-      "commitmentHash": "e098289c18f9d130a0c73eb38fafae1890f69ab005d66520adb9275d4680dff3",
-      "localSeed": "5d62f4c1107d3cf6fe14214459c560827ebfa9a0b6667f2910447d51d7f779d8",
+      "commitmentHash": "88e9d844485642b028a3d3fd0ab29f37e76d7a39619d838967a945d674290c30",
+      "localSeed": "8228345f35cf636abc17886e934fc2e56ae981b9bc2a59c397dd33859f494dfe",
       "blockNumber": 24405744,
-      "createdAt": "2026-02-07T15:07:29.189Z",
+      "createdAt": "2026-02-07T15:07:30.713Z",
       "prizeRank": 10
     }
   ],
-  "updatedAt": "2026-02-07T15:07:29.881Z"
+  "updatedAt": "2026-02-07T15:07:31.310Z"
 }
