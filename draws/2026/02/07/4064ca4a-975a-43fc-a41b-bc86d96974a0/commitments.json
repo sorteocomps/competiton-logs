@@ -1,0 +1,16 @@
+{
+  "prizeDrawId": "4064ca4a-975a-43fc-a41b-bc86d96974a0",
+  "prizeDrawName": "Maldives Luxury Getaway",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "3658b9d1cae04591f96ac61eacbc628484b0a8dc91e14072127e5a446246c85c",
+      "localSeed": "34c5ab83ca03b57e9844e7b41af390c2c684b6124854f3b841be996ce682a68f",
+      "blockNumber": 24406325,
+      "createdAt": "2026-02-07T17:04:26.611Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2026-02-07T17:04:27.348Z"
+}
