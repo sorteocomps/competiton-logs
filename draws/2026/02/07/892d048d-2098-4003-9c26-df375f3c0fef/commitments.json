@@ -1,0 +1,16 @@
+{
+  "prizeDrawId": "892d048d-2098-4003-9c26-df375f3c0fef",
+  "prizeDrawName": "£5,000 Fashion Wardrobe",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "7bdd5c30936fa9237217afbf140ba2a1fece8e56d6e957fffc5c1c9a68ef6715",
+      "localSeed": "0982a5d5fbc30f589ead8c03a9516cf909b73fca87e9d936268057bb1e036c19",
+      "blockNumber": 24405744,
+      "createdAt": "2026-02-07T15:07:32.033Z",
+      "prizeRank": 10
+    }
+  ],
+  "updatedAt": "2026-02-07T15:07:32.633Z"
+}
