@@ -1,8 +1,8 @@
 {
   "prizeDrawId": "796b9179-2325-42cc-b35c-73915b741399",
   "prizeDrawName": "Win a Tesla Model 3",
-  "ticketListHash": "",
-  "ticketCount": 0,
+  "ticketListHash": "fafa42ce65a22fb9f2104decf9fbbee3964114bee28adefd0fac147b86160ec5",
+  "ticketCount": 773,
   "prizeCommitments": [
     {
       "commitmentHash": "b06df61a416aeb7f2f491e917ab50f5582362ffafcfe9e2f6abe491fe15e2f74",
@@ -12,5 +12,5 @@
       "prizeRank": 1
     }
   ],
-  "updatedAt": "2026-02-07T17:16:22.823Z"
+  "updatedAt": "2026-02-07T17:17:30.339Z"
 }
