@@ -1,0 +1,16 @@
+{
+  "prizeDrawId": "b009974a-1ab3-4b74-850f-a0babf6556ba",
+  "prizeDrawName": "Ultimate Gaming Setup",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "8f2b9f9b364f52fe316548e9014f774eae431da7853ca2b5a964142702e034b7",
+      "localSeed": "9f5a5926422567f6794dd890f2006baf7af490353b398f9d5f78d418060dc954",
+      "blockNumber": 24405751,
+      "createdAt": "2026-02-07T15:08:51.248Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2026-02-07T15:08:51.908Z"
+}
