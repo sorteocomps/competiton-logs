@@ -1,0 +1,16 @@
+{
+  "prizeDrawId": "979a7019-719b-4ec5-8d7b-c596fb927043",
+  "prizeDrawName": "MacBook Pro 16\" M4 Max",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "3cfd9e081b312c92dd94985f736db7274b7e1882dec5506ead96ede363bd02f6",
+      "localSeed": "14cde7e408926e8f5dfd282a4a6dc755ea71327c3567b3e76d7e847fd419922c",
+      "blockNumber": 24406560,
+      "createdAt": "2026-02-07T17:51:20.594Z",
+      "prizeRank": 1
+    }
+  ],
+  "updatedAt": "2026-02-07T17:51:21.262Z"
+}
