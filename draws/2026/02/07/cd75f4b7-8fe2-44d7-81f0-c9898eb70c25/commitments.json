@@ -10,7 +10,14 @@
       "blockNumber": 24406325,
       "createdAt": "2026-02-07T17:04:28.251Z",
       "prizeRank": 1
+    },
+    {
+      "commitmentHash": "5e5c80b47bf2030915ffc06427f94558b66bcb6087fd5ed48074f63c29999272",
+      "localSeed": "35be683bd6d74cfe447c8a0084281e07dbfc4359f212afe7e6f5ed294ddf3ccc",
+      "blockNumber": 24406325,
+      "createdAt": "2026-02-07T17:04:29.913Z",
+      "prizeRank": 2
     }
   ],
-  "updatedAt": "2026-02-07T17:04:29.040Z"
+  "updatedAt": "2026-02-07T17:04:30.582Z"
 }
