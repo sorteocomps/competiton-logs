@@ -14,7 +14,20 @@
       "blockHash": "0x1d0e557453e85b4d994eca7e48e26fab67640fe3ce666ab0dac2a6da01698b8e",
       "combinedSeed": "b0184f232f41b60c36fab366cd6d76c29d9af8170dde1b4d76a58ab6cd919710",
       "revealedAt": "2026-02-07T16:52:48.162Z"
+    },
+    {
+      "prizeDrawId": "4cc7b4cd-8500-4c0f-8edc-f5d073e243bc",
+      "prizeDrawName": "4cc7b4cd-8500-4c0f-8edc-f5d073e243bc",
+      "localSeed": "a871bcb424a539a69cadefe1b521e443b345049407879c41253d2679c7e2d434",
+      "blockNumber": 24405894,
+      "commitmentHash": "6df965b8075e68349b037f6a3ad832a4b8aa705cc1e6975cdc0d6bd05d571095",
+      "ticketListHash": "f110c21982c8ad414a1695acfb008d219ebabbbc0b34a07472e5937cb8cb4c66",
+      "createdAt": "2026-02-07T15:37:25.008Z",
+      "prizeRank": 2,
+      "blockHash": "0x1d0e557453e85b4d994eca7e48e26fab67640fe3ce666ab0dac2a6da01698b8e",
+      "combinedSeed": "db39f23517b7b0c499466960bba1107b7c4510b428ff352c171af7177bdd4b40",
+      "revealedAt": "2026-02-07T16:54:06.019Z"
     }
   ],
-  "updatedAt": "2026-02-07T16:52:48.414Z"
+  "updatedAt": "2026-02-07T16:54:06.207Z"
 }
