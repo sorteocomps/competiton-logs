@@ -1,0 +1,15 @@
+{
+  "prizeDrawId": "ba9e8528-ee96-4252-a51e-d57653b0f9e4",
+  "prizeDrawName": "Preview Test 1770554849468",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "06d35f8e996def79d160396cfa24b3cd98f20705bae034e4afecea19f377b71a",
+      "localSeed": "c3730caec18ebef921eaca6634c955063e87a1d6a358967352f2261ef0a896c7",
+      "blockNumber": 24412160,
+      "createdAt": "2026-02-08T12:47:33.102Z"
+    }
+  ],
+  "updatedAt": "2026-02-08T12:47:33.801Z"
+}
