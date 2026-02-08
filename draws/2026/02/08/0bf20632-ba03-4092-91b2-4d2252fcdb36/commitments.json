@@ -1,0 +1,15 @@
+{
+  "prizeDrawId": "0bf20632-ba03-4092-91b2-4d2252fcdb36",
+  "prizeDrawName": "Full Impact Test 1770555377345",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "e4cffc70affc79fb81abb8c010365f3e0629ed9cc8b7dd180cb4642a99049cf9",
+      "localSeed": "d4650941d5ea13c8b5906c4a69b0ee2962f1e3b17b83d5876b1e541a229291ab",
+      "blockNumber": 24412205,
+      "createdAt": "2026-02-08T12:56:29.802Z"
+    }
+  ],
+  "updatedAt": "2026-02-08T12:56:30.474Z"
+}
