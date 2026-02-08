@@ -1,0 +1,15 @@
+{
+  "prizeDrawId": "4045cd7c-2a6f-412c-9952-ee36426c2817",
+  "prizeDrawName": "Bundle Test 1770557701229",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "42842927cdb320b511da88fd219e583f1495dc1d5dbaa8a3e8bbbabedc2cfdcc",
+      "localSeed": "7ed10199106b72d2579d064990d24f80cd12c7274d1eab41a00df3370d67e416",
+      "blockNumber": 24412397,
+      "createdAt": "2026-02-08T13:35:05.342Z"
+    }
+  ],
+  "updatedAt": "2026-02-08T13:35:06.079Z"
+}
