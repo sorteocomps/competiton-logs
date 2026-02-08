@@ -1,0 +1,15 @@
+{
+  "prizeDrawId": "84945630-9dc6-4295-9cfb-5a872c448d54",
+  "prizeDrawName": "High Charity Test 1770554508740",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "ed86c9a9c65e3f70f48d86fe88e6e2cf8c476e3729d7eed50b007c3671a5eb1e",
+      "localSeed": "1a01c1166dd67a67b6ffbd289baa69061d8c688fadc03d53148fd5ae129b8faf",
+      "blockNumber": 24412133,
+      "createdAt": "2026-02-08T12:41:53.120Z"
+    }
+  ],
+  "updatedAt": "2026-02-08T12:41:53.769Z"
+}
