@@ -1,0 +1,15 @@
+{
+  "prizeDrawId": "a6188b7f-2a2f-40ed-b417-fb927942afed",
+  "prizeDrawName": "Trees Test 1770555679368",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "2088d9912f95d57b86c62701f838dd508fa65653bc7a3ef655e8dd96e389f832",
+      "localSeed": "ae97b88067cece5300b99a828235cce7a881454a34a4c8cf78db52cd2b64470a",
+      "blockNumber": 24412229,
+      "createdAt": "2026-02-08T13:01:23.598Z"
+    }
+  ],
+  "updatedAt": "2026-02-08T13:01:24.417Z"
+}
