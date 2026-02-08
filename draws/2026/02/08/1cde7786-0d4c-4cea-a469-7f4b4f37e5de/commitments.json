@@ -1,0 +1,15 @@
+{
+  "prizeDrawId": "1cde7786-0d4c-4cea-a469-7f4b4f37e5de",
+  "prizeDrawName": "Min Ticket Badge Test 1770553546990",
+  "ticketListHash": "",
+  "ticketCount": 0,
+  "prizeCommitments": [
+    {
+      "commitmentHash": "87829b2446e6edfd2c744421246d709f0a23882610d488a89e91177194ca3454",
+      "localSeed": "6a381d3a52e4ca9ae628879b4af2420709c5e83f01348f036f5447aa554f7e34",
+      "blockNumber": 24412053,
+      "createdAt": "2026-02-08T12:25:51.071Z"
+    }
+  ],
+  "updatedAt": "2026-02-08T12:25:51.931Z"
+}
